@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://chatgpt.com/s/m_685b6d6dbe448191ba1231ffe40e103e"  />
+<img align="right" height="150" src="https://sdmntprwestcentralus.oaiusercontent.com/files/00000000-5438-61fb-8b94-cc0414176baf/raw?se=2025-06-25T04%3A28%3A48Z&sp=r&sv=2024-08-04&sr=b&scid=db570d48-4f01-5cfa-9efd-efc551afa61f&skoid=71e8fa5c-90a9-4c17-827b-14c3005164d6&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-06-24T21%3A34%3A35Z&ske=2025-06-25T21%3A34%3A35Z&sks=b&skv=2024-08-04&sig=YEHge8rZgDyj19PsRewmUoLpB5QxsFwtD%2BUYfNEw9mg%3D"  />
 
 ###
 
