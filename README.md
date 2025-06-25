@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/w3APLkMuTX0AAAAC/computer-work.gif"  />
+<img align="right" height="150" src="https://chatgpt.com/s/m_685b6d6dbe448191ba1231ffe40e103e"  />
 
 ###
 
